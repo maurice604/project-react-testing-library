@@ -3,7 +3,6 @@ import { screen, fireEvent } from '@testing-library/react';
 import App from '../App';
 import renderWithRouter from './renderWithRouter';
 
-import Pokemon from '../components/Pokemon';
 import pokemons from '../data';
 
 describe.only('Testing the <Pokemon.js /> component', () => {

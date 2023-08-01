@@ -1,12 +1,4 @@
-### Termos de acordo
-
-Ao iniciar este projeto, você concorda com as diretrizes do Código de Ética e Conduta e do Manual da Pessoa Estudante da Trybe.
-
 # Boas vindas ao repositório do projeto de testes com a React Testing Library!
-
-Você já usa o GitHub diariamente para desenvolver os exercícios, certo? Agora, para desenvolver os projetos, você deverá seguir as instruções a seguir. Fique atento a cada passo, e se tiver qualquer dúvida, nos envie por _Slack_! #vqv 🚀
-
-Aqui você vai encontrar os detalhes de como estruturar o desenvolvimento do seu projeto a partir deste repositório, utilizando uma branch específica e um _Pull Request_ para colocar seus códigos.
 
 # Sumário
 
@@ -70,7 +62,7 @@ Este repositório já contém uma aplicação React criada e configurada. Após 
 ## Data de entrega
 
   - Serão `2` dias de projeto.
-  - Data de entrega para avaliação final do projeto: `26/03/2021 - 14:00h`.
+  - Data de entrega para avaliação final do projeto
 
 # Instruções para entregar seu projeto
 
@@ -450,11 +442,6 @@ Use o material que você já viu sobre [Code Review](https://course.betrybe.com/
 ---
 
 # Avisos Finais
-
-Ao finalizar e submeter o projeto, não se esqueça de avaliar sua experiência preenchendo o formulário. Leva menos de 3 minutos!
-
-Link: [FORMULÁRIO DE AVALIAÇÃO DE PROJETO](https://be-trybe.typeform.com/to/ZTeR4IbH)
-
 O avaliador automático não necessariamente avalia seu projeto na ordem em que os requisitos aparecem no readme. Isso acontece para deixar o processo de avaliação mais rápido. Então, não se assuste se isso acontecer, ok?
 
 ---
